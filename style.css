@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Angkor&family=Gloria+Hallelujah&family=Madimi+One&family=Oleo+Script:wght@400;700&family=PT+Mono&family=Ruslan+Display&display=swap');
+ 
+ 
+ 
+body {
+    background-color: burlywood;
+    text-align: center;
+}
+ 
+ 
+.titulo {
+    font-family: "Oleo Script", system-ui;
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 100px;
+}
+ 
+.fonte {
+    font-family: "PT Mono", monospace;
+    
+}
+ 
+.texto1 {
+    font-family: "PT Mono", monospace;
+}
+
+.fonte2 {
+    font-family: 'Angkor', serif; 
+}
+
+.texto2 {
+    font-family: 'Angkor', serif; 
+}
+
+.fonte3 {
+    font-family: "Madimi One", sans-serif;
+}
+
+.texto3 {
+    font-family: "Madimi One", sans-serif;
+}
+
+.fonte4 {
+    font-family: "Gloria Hallelujah", cursive;
+}
+
+.texto4 {
+    font-family: "Gloria Hallelujah", cursive;
+}
+
+.fonte5 {
+    font-family: "Ruslan Display", sans-serif;
+}
+
+.texto5 {
+    font-family: "Ruslan Display", sans-serif;
+}
+
